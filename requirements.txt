@@ -6,4 +6,3 @@ tqdm
 librosa
 demucs
 onnxruntime
-PyQt5
